@@ -1,4 +1,4 @@
- -- finance_days.sql
+ -- finance_days.sql 
 
  SELECT
      date_date
